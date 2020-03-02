@@ -1,2 +1,2 @@
 # rosalind
-My own Rosalind
+My python code solving the rosalund problems
